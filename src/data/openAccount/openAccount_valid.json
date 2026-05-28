@@ -1,0 +1,12 @@
+[
+    {
+        "accountType": "Checking",
+        "fromAccount": 1,
+        "expected": "success"
+    },
+    {
+        "accountType": "Savings",
+        "fromAccount": 2,
+        "expected": "success"
+    }
+]

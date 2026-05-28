@@ -1,0 +1,17 @@
+[
+  {
+    "firstName": "TaramN2",
+    "lastName": "Nfbsd",
+    "address": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zipCode": "12345",
+    "phone": "555-123-4567",
+    "ssn": "123-45-6789",
+    "userName": "taramN2",
+    "password": "PasswordA@12",
+    "confirmPassword": "PasswordA@12",
+    "expected": "success"
+  }
+
+]
