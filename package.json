@@ -12,9 +12,7 @@
     "test:ui": "playwright test --ui",
     "test:headed": "playwright test --headed",
     "codegen": "playwright codegen",
-
     "test_login_valid": "playwright test --grep @login_valid --project=chromium --headed",
     "test_login_invalid": "playwright test --grep @login_invalid"
-
   }
 }

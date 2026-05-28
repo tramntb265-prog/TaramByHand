@@ -34,7 +34,7 @@ export class LoginPage {
         //console.log(await this.userName.count());
         await expect(this.userName).toBeVisible();
         await expect(this.password).toBeVisible();
-        await expect(this.loginButton).toBeVisible();
+        await expect(this.loginButton).toBeVisible(); 
     }
 
 }

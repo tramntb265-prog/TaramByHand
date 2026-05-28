@@ -1,12 +1,12 @@
 [
     {
-        "accountType": "Checking",
-        "fromAccount": 1,
+        "accountType": "CHECKING",
+        "fromAccountIndex": 1,
         "expected": "success"
     },
     {
-        "accountType": "Savings",
-        "fromAccount": 2,
+        "accountType": "SAVINGS",
+        "fromAccountIndex": 2,
         "expected": "success"
     }
 ]
