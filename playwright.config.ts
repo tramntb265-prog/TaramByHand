@@ -3,10 +3,6 @@ import { defineConfig, devices } from '@playwright/test';
 export default defineConfig({
   testDir: './tests',
   fullyParallel: true,
-  /* Capitalized CI fixes potential reference issues */
-  forbidOnly: !!process.env.CI,
-  retries: process.env.CI ? 2 : 0,
-  workers: process.env.CI ? 1 : undefined,
   reporter: 'html',
   
   use: {
@@ -14,40 +10,37 @@ export default defineConfig({
   },
 
   projects: [
-    // 1. Define the unique global authentication step
+    // --- 1. THE ISOLATED SETUP GENERATORS ---
     {
-      name: 'setup',
-      testMatch: '**/auth.setup.ts', // Matches your setup file pattern
+      name: 'setup-standard',
+      testMatch: '**/auth.setup.ts', // Only writes auth.json
+      retries: 0,
+      workers: 1,
+    },
+    {
+      name: 'setup-pf',
+      testMatch: '**/pfauth.setup.ts', // Only writes PFauth.json
       retries: 0,
       workers: 1,
     },
 
-    // 2. Main browsers depending on the setup completing first
+    // --- 2. THE ISOLATED TESTING CONSUMERS ---
     {
-      name: 'chromium',
+      name: 'chromium-standard',
       use: { 
         ...devices['Desktop Chrome'],
-        storageState: 'auth.json', // Automatically injects session
+        storageState: 'auth.json', // Only injects standard session
       },
-      dependencies: ['setup'],
+      dependencies: ['setup-standard'], 
     },
 
     {
-      name: 'firefox',
+      name: 'chromium-pf',
       use: { 
-        ...devices['Desktop Firefox'],
-        storageState: 'auth.json',
+        ...devices['Desktop Chrome'],
+        storageState: 'PFauth.json', // Only injects manual OTP session
       },
-      dependencies: ['setup'],
-    },
-
-    {
-      name: 'webkit',
-      use: { 
-        ...devices['Desktop Safari'],
-        storageState: 'auth.json',
-      },
-      dependencies: ['setup'],
-    },
+      dependencies: ['setup-pf'], 
+    }, 
   ],
 });

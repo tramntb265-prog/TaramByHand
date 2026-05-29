@@ -1,0 +1,102 @@
+{
+  "cookies": [
+    {
+      "name": "vercel-experiment-uuid",
+      "value": "vw8DD-9kjOf6TM6mie1SP",
+      "domain": "vercel.live",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://flexigrow.app",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "kbtc",
+      "value": "ktt_02f6ce8906ec4b76b368084ab0528fbc",
+      "domain": ".authstaging.flexigrowapi.com",
+      "path": "/",
+      "expires": 1811572521.185992,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "enduser_session_id",
+      "value": "0x976e1a929c5a441bae13dbf527182449",
+      "domain": ".authstaging.flexigrowapi.com",
+      "path": "/",
+      "expires": 1780122937.736197,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "access_token",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..gcbghtMa7Jc05CuU.mm9vNfQh4o8Ktjn7nw47kfeDIQbwI9aQ5Yd4C3sM2plyGDpUD_iu9HVjydAH9keACQ-Rlim9fvSULSN74qsxd1pW58_ZGGFP4K4_76hKVIzMCpFgZv8Z0us3hI3wGtkmHj-W1jdXalJQEz9LyifNXBO0klFgtgcY7NWUr54StEJqgzAgn4PUk3Efc1GY4Q0lJEDd-JVrs_UP_sETjQ-5--wwLzcwbB-q9MPjs5N-JG5ufeEw60adGJ-PNE7JXTBLc5q0TLXJySAaSL99UFrR2ENWDDLWiO-YaHOxwsrycd4SoHf2LaZMCt1cthSSD-KgX7LBxYIm0p-K3V0ixkyLfoaK1wc8_ORQKONmedJxcOGnl2SAlcZAh-n2-HTCW4yqk1Kpqhiis9-hD-2trxvqxhafcd3dJG6IwaBMPWnRBILmRu4tMOPiq6s4LBkyZhk9l3AhkqcQd3zDN7iHsXq8xRCtCMffNGX1flHn_xmYZD4hVqqlDNgALitdpESXhuDyK9K5gnOrubtS2Y5wkZyDTEc3-fI3K0f1zYLRBhY4v2lkNV9g-1heb8_72PtgzQ0xwJLaluN2xwzZLunSua9STnKAzvzpmezuOjddrwkEw4ASEb_qRfioGC_W2eMSj5OCw7V3YdxSCKsUtX61J52ks_tAWUlv2DHbvud8n8X1lzciA4jSREhO5TFRXI2-HYJsesyt_NBVHQp8RBRZN4AXZAVX9aDzqK0odTWqCoMY8Zjq75Bc216QzAKgW7n8emBNvBShTND5s0UyE3UTFf28FgWJTszxP3Wvpv-SCH5Et4iChge7mFbSYdhabEAfnlakWj9bY6XXxtTKEklG3KuPc2Is3tP2bkrA0MtuHxNg9HfW2wzhZFpuM92kVORmfv6w-Z5qbIdYwm_w0-JRFQxhUPmSUBlGC7RXZQLGzDqa7ZH-ipiGeYiefCcEQfQ0sLMWV2mE_8Tk3rUBRH__CqNZAeecJMC-G8Fd1fFiraescD67cIUfAhSKgtDGR74efFVS0rTA_6H7TSngQCkl57ehoMAbYSPue0VGIG3yfJ5SbSY_0E_EkH9XsDP0hNZvMcGd1_UUV3PSqIv5iy17RdX6XYKLRn3kABKJf888-OWN-fLXtemrUA3jgzEqCnPH-QNULBLJ7OxrLYfObqFhK04-_gS1hST-a4MFXY-W6jwHFi5UAK0hZmkX1ApOwtvAAq87xMm0_S4WIWAQVLhpkBC2pIMb6nMtOmexroXVOyJMEn5KJ2z0V2dMwOvbLRfWPcZeyFeDZ5UTCk55iB-yTxs7wIYi9kqXZUHtVOj1eCuRcVsxbEwHa2-0FP-lVRoNTU3LBGbepswutiihD03qjF1KhIt02_nO6ny9drbvDrM8Csp2O8sHXvU5gEw_8JU3Vjs9Exd8_gwrGuPsLzUHH100lOn2HOqOgzqGfdh6NOQ9Hq8TKv-4u5IT3xF7hIZ6RsHfJHzZJggy9NSSpr9O79XWILwBGoIyk8o4Ld1KzWNqEnH99y9aB6rpJM0SuLlWPLOXsJBK2gTsuUampU7SlJo3vydTOiLhhbMJfm5msA4PPDF45Aii3gGKQF4FJHu6vR0RzPqDDHtY8JdZFregfeSkMS5RG35ciBJtiwgA3eGkk7bQ1t3t1ZqjemagqtiH_d9wHA9BnzzZhL8k4HZ_GBMjqHvVKeqzB3Prf2B_7qn5U92d5cqCrB4tZ5Csxr-YKqBwZFxEVGw1pSM8uEVqjsd_jSkuSE39XzpNU0Y4Kz5tnP8w4BSIgTVegq05sodm4NxLywB-uRXGkZAisoHiO21y2BmYtYJHaPjN3zKn8FQK08KD3VgvBWVhEcrmTARkp4ykZFXPUflECbRLE1ME3JvloWbLqvLPuam4FcbvMmmLzshYUheiCp6CNLng_UQkn5s-e8TK07pDUcW3Yz52iyBRv_a-fYB1jt6eC2jzetK0-z7gre6t5Hg5wZE3_Xo5QywxvkKaPILkv1TXv69MD00v7Pg0P1uBchrSD4h4PNyRqGVazO261XDbee3OYffjvU4BpoIbi-Qqk9vfyKla0q05KSZp7KgNgISUuy0lnVSbh82jJwy-xi21y71690QLDRDMgF63UIcxQtRuLGk-JlgglvoOC7pZGMt2nvRD1ZxbuDJZpWrAwoZU9OpE7SOFI_kp-NKUwS6uFERu6ZAW_UHwGIQ8hEWrkplti1OFlT1Ov6nivtnDAX7uAwBiyvCrt_TdEQ5q8v_93-ly7eTU7gDPhymgTMv1wMsu6upqo078wpVIWZGpeLandZxTvawa8hTFd6aLbzxp2mjt6MeubF0w9kpTgWc6BNvqELz8zkTB_SGf7kSwRulPpOfxoF_LgYky0-UX0hj84_-lkmeJrlcmX19v89ZU94VLP16Th88kTSsskQp5pOVxqZ7biJSXcgafwt-Znsk7wKM0EsisxLE5ijlLCzqjGasKRzE4MiOWcda6gvrL0SY5pyNWYhuMarPkpTom1hwtA9D1ctKnfdQcDCc5Qq3nquogZ3gs-xNIlDV1yG5e75_1kfvQEY1FdS8k_F4IhncZYjdggcfzHQ0lRuRf5gUqrvyMSrAzjvEwzgMuneDsxiyolbumdz8f-jM0IQTLzoxme1MGgs_uSKax19yfzVvehYLlC1RocWTYBvuE0sXJ01PHp1Gz3rBTD398KLITUB_zeoi2va-IaQYqJKSj2apOTv4BRTWGFtTJDh1W93tbdAj72-C1QFZygeWmJBR85D4ch7NBRsWHciUD.sNADIrflyn0QvxXGmNHTYg",
+      "domain": "dev.flexigrow.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "id_token",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..d2cbhdq1Ea-tNh4L.NzYG-qq2tnvfbNeQ1D-acP91Ot-jlyMlUcj2YFNAmNOjAmtHdOTlbv13fqJDtXaWt-jKdy9fHB0W100Qjm4XguwXtxSqgo7TU1RM1JsS-Bmrf97QIPD3J9OcOVLFYfiAcer83VBCaJigR3Jft5N8D8UIdcFej71kO4hM1YId6F2FXAOssf24dCk7LFG4U_lAC0dX-8fhVlzMTKUh67mnyqcVQf2Z8M3wABQXqcKkMYhC_gn12OiP89WqHZIpJ8UrHFD9w25Sj9fHyW0i1zMo2FXQmDVpdL20t9cOsgBVzvSyiACiPdPk1d2_XQwVWF5hNtcRlXkNyBe4S6v8-b2wbT6JhVhtksNYBgrwYYoKGhzM0ZD4G3jibiX8E1EcM451feavqnyG-5zV94pSmz4B7Qr42CGyTZg2iYpumZmTY9qmqH_FnfgqKV0eoE_qiAJbytvm9HfFuAfjgXPcSP8Zi_E1f22PY_AUjAes2wPhcywicI-Dhp8mrI7989eZdzJiOqCVR6VsnBc2XQpsNLxjuCbkJ66gBq1bC_do_xir4mqpaTR40Mak0ZLnrKVXegOrd8HBu0H7b5-zYpgOBhuv0Idm1fxJdUgqbjmg9AuXzES_rOfuDrtxxGb3BdeZl81OwN-0n8pu6XDxmIHeY82sLdkbsA2MdLgNJIvCVYbY14Eb8ZUwEybp4aOkcWyuBs8iizUW_SRRnqQxxaMIShgulnAmtVWQ4JVBzbRmIzAXUuRkfSGDuIbwb-hp6LqAJrAhCRfamr8zdE-FY-bIRL3esF7lZTO8fJ0es3OdsRRuNulMNnjIYgBjQlOfsIbquwoWcOzwd2Px8zL2TAnMGC431rwDZgsn6FK5n9zixyxna8bIlnb0wFZ_gsKQJC-QY6t_tZjIa44XQe6_rsa-UbXhUIKvO1AbiGyK5rdbFZUt_Mz4yXifHY-CG-qHCU1Uz4pccBttvNK6_31ohXFQpHWCN3IGzkxjfXNcMFWqqRdORYX8cfWZo3N-v1Ki83Ragw6qAOSguzimd1Yj0kpzDNEmQd6tXzwy4HSMU43MW7nDKh1YZFRYtGPpM6pTlZta-DoHNImhRFQAdeoyrjWIhepLyLKARpjxhjaeBM2WX7CSxxa3zA_x-GdjTInvR7jXbMiIgK2VhWKDQXHe4TgqXOiNNuYW5mH9u3Ms3Ehhh6AykyWuW3CLm27bi6w1stc0j_KKicM3LxuqryNQbmvB4CvGFa9BwyR6d6uMd0UGf1UrUXVvB5Svlsp82P2nYTozGv88giIRm13GMKsQ3m1VleBZjZBikgI4QE3-_YrVLFEEzKKUobFDEronRXsiQSNePzLs6pFAY3GJj89ZdvdGhb0Hp3QDIZX0MMYMa0lZ2UFyRi3VoKV343NEO3P0VB-nXsFHk-DuIkXf_2d6TxpuA90saaYV4ppVzPJMAM6BiBnOvElp0zyO-ASyS-x-0tBMBleWv0_0mPfCYMe_mISA0eJYmDG276X4Rx1aHQ4qGzR-wj4tHEccrLknZ_0ZVw0wNnkFTG99BRlzPZHHMHkvcIlHJ-YCYBrGGoGSqU7BPGPdMFBaXoACymPgEYUUhp6DjxEMEecPlHCQHipMqG7KHrBhNND6ZwiQcN0wikQdC6tHTLnFicu3B8ZHhj9jYstJMMCfePA4l5uakqUoGFjxqkrt6x67GHHt6dEH12d0MWh37Bs6ilrzVT21Ikg6GNVgfqT0k7xDivwjdzmgb4UTNwBvubea4qtYyjeLsTph_QqumBIzkuzZ3bTh5rwspa92en5MbDt07goXXvg.rF8YsWidcwk8lZCKgBGo2Q",
+      "domain": "dev.flexigrow.app",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "refresh_token",
+      "value": "wxNZ2XKxGjOGnV_bnF_UzvN91yyqDX0I5sv9okqVX_I.aZWepefofe8tI4SS2rbmh0DePESwuGtbCYWgkaHRK7g",
+      "domain": "dev.flexigrow.app",
+      "path": "/",
+      "expires": 1782542138.906156,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://dev.flexigrow.app",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "iconify0",
+          "value": "{\"cached\":494454,\"provider\":\"\",\"data\":{\"prefix\":\"mdi\",\"lastModified\":1737398331,\"aliases\":{\"payment-settings\":{\"parent\":\"credit-card-settings-outline\"}},\"width\":24,\"height\":24,\"icons\":{\"credit-card-settings-outline\":{\"body\":\"<path fill=\\\"currentColor\\\" d=\\\"M20 8H4V6h16m0 12H4v-6h16m0-8H4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2M7 22h2v2H7zm4 0h2v2h-2zm4 0h2v2h-2z\\\"/>\"}}}}"
+        },
+        {
+          "name": "iconify-count",
+          "value": "1"
+        },
+        {
+          "name": "iconify-version",
+          "value": "iconify2"
+        }
+      ]
+    },
+    {
+      "origin": "https://vercel.live",
+      "localStorage": [
+        {
+          "name": "vid-https://dev.flexigrow.app",
+          "value": "\"17800365204550.7776695019465033\""
+        },
+        {
+          "name": "vercel-toolbar-experiment-uuid-https://dev.flexigrow.app",
+          "value": "\"vw8DD-9kjOf6TM6mie1SP\""
+        }
+      ]
+    }
+  ]
+}
